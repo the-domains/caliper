@@ -1,0 +1,28 @@
+name: caliper+
+favicon: null
+layout_spectrum: 0.50222
+typography_spectrum: 0.50955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2429095134139061
+  lightness: 0.8714725093450397
+  saturation: 0.2555918260477483
+  rhythmicContrast: 0.5425225775688887
+purpose: []
